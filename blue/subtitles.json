@@ -1,0 +1,218 @@
+[
+  {
+    "__typename": "Subtitle",
+    "id": "d5853db5-2ae2-49bc-9ce2-c50b2f6cf2c0",
+    "projectId": "713b9395-656f-4292-9a51-319bb4780404",
+    "startTime": 1430,
+    "endTime": 3970,
+    "fontSize": "60%",
+    "horizontalAlign": "LEFT",
+    "verticalAlign": 1,
+    "createdAt": "2022-06-23T10:36:12.030Z",
+    "lines": [
+      {
+        "__typename": "Line",
+        "text": "Les forces spéciales sont",
+        "color": "#ffff00",
+        "fontFamily": null,
+        "bold": true,
+        "justification": "CENTER",
+        "italic": true,
+        "underline": null,
+        "boxingColor": "#000000",
+        "boxingOpacity": null
+      },
+      {
+        "__typename": "Line",
+        "text": "une unité d' élite formée",
+        "color": "#ffff00",
+        "fontFamily": null,
+        "bold": null,
+        "italic": true,
+        "justification": "CENTER",
+        "underline": null,
+        "boxingColor": "#000000",
+        "boxingOpacity": null
+      }
+    ],
+    "updatedAt": "2022-06-23T10:36:12.030Z"
+  },
+  {
+    "__typename": "Subtitle",
+    "id": "052ce796-9b13-43fd-8cec-ad6dc3709a34",
+    "projectId": "713b9395-656f-4292-9a51-319bb4780404",
+    "startTime": 3970,
+    "endTime": 5700,
+    "fontSize": "60%",
+    "horizontalAlign": "RIGHT",
+    "verticalAlign": 12,
+    "createdAt": "2022-06-23T10:36:12.024Z",
+    "lines": [
+      {
+        "__typename": "Line",
+        "text": "pour exécuter les missions",
+        "color": "#ffff00",
+        "fontFamily": null,
+        "justification": "CENTER",
+        "bold": null,
+        "italic": true,
+        "underline": null,
+        "boxingColor": "#000000",
+        "boxingOpacity": null
+      },
+      {
+        "__typename": "Line",
+        "text": "les plus dangereuses.",
+        "color": "#ffff00",
+        "fontFamily": null,
+        "justification": "CENTER",
+        "bold": null,
+        "italic": true,
+        "underline": null,
+        "boxingColor": "#000000",
+        "boxingOpacity": null
+      }
+    ],
+    "updatedAt": "2022-06-23T10:36:12.024Z"
+  },
+  {
+    "__typename": "Subtitle",
+    "id": "3ced060a-96fd-4a65-abc2-8fde2fa6153f",
+    "projectId": "713b9395-656f-4292-9a51-319bb4780404",
+    "startTime": 7240,
+    "endTime": 9300,
+    "fontSize": "60%",
+    "horizontalAlign": "CENTER",
+    "verticalAlign": 22,
+    "createdAt": "2022-06-23T10:36:12.046Z",
+    "lines": [
+      {
+        "__typename": "Line",
+        "text": "Leur formation a lieu depuis",
+        "color": "#ffff00",
+        "fontFamily": null,
+        "justification": "CENTER",
+        "bold": null,
+        "italic": true,
+        "underline": null,
+        "boxingColor": "#000000",
+        "boxingOpacity": null
+      },
+      {
+        "__typename": "Line",
+        "text": "toujours dans le plus grand",
+        "color": "#ffff00",
+        "fontFamily": null,
+        "bold": null,
+        "justification": "CENTER",
+        "italic": true,
+        "underline": null,
+        "boxingColor": "#000000",
+        "boxingOpacity": null
+      }
+    ],
+    "updatedAt": "2022-06-23T10:36:12.046Z"
+  },
+  {
+    "__typename": "Subtitle",
+    "id": "a550cad4-706e-44af-870b-06dbc4341464",
+    "projectId": "713b9395-656f-4292-9a51-319bb4780404",
+    "startTime": 9360,
+    "endTime": 9610,
+    "fontSize": "60%",
+    "horizontalAlign": " ",
+    "verticalAlign": 22,
+    "createdAt": "2022-06-23T10:36:12.020Z",
+    "lines": [
+      {
+        "__typename": "Line",
+        "text": "secret.",
+        "color": "#ffff00",
+        "justification": "LEFT",
+        "fontFamily": null,
+        "bold": null,
+        "italic": true,
+        "underline": null,
+        "boxingColor": "#000000",
+        "boxingOpacity": null
+      },
+      {
+        "__typename": "Line",
+        "text": "repeat.",
+        "color": "#ffff00",
+        "justification": "RIGHT",
+        "fontFamily": null,
+        "bold": null,
+        "italic": true,
+        "underline": null,
+        "boxingColor": "#000000",
+        "boxingOpacity": null
+      }
+    ],
+    "updatedAt": "2022-06-23T10:36:12.020Z"
+  },
+  {
+    "__typename": "Subtitle",
+    "id": "cd257dce-5b44-40cc-a0a0-ce353544f6ab",
+    "projectId": "713b9395-656f-4292-9a51-319bb4780404",
+    "startTime": 10500,
+    "endTime": 13920,
+    "fontSize": "60%",
+    "horizontalAlign": "CENTER",
+    "verticalAlign": 10,
+    "createdAt": "2022-06-23T10:36:12.029Z",
+    "lines": [
+      {
+        "__typename": "Line",
+        "text": "Pour la première fois 25",
+        "color": "#ffff00",
+        "fontFamily": null,
+        "bold": null,
+        "justification": "CENTER",
+        "italic": true,
+        "underline": null,
+        "boxingColor": "#000000",
+        "boxingOpacity": null
+      },
+      {
+        "__typename": "Line",
+        "text": "civils vont vivre l'",
+        "color": "#ffff00",
+        "fontFamily": null,
+        "bold": null,
+        "italic": true,
+        "justification": "CENTER",
+        "underline": null,
+        "boxingColor": "#000000",
+        "boxingOpacity": null
+      }
+    ],
+    "updatedAt": "2022-06-23T10:36:12.029Z"
+  },
+  {
+    "__typename": "Subtitle",
+    "id": "fbdbc638-1693-474c-9c15-a2a19ce7143a",
+    "projectId": "713b9395-656f-4292-9a51-319bb4780404",
+    "startTime": 13920,
+    "fontSize": "60%",
+    "horizontalAlign": "CENTER",
+    "endTime": 15270,
+    "verticalAlign": 5,
+    "createdAt": "2022-06-23T10:36:12.018Z",
+    "lines": [
+      {
+        "__typename": "Line",
+        "text": "expérience de cette sélection.",
+        "color": "#ffff00",
+        "fontFamily": null,
+        "bold": null,
+        "italic": true,
+        "justification": "CENTER",
+        "underline": null,
+        "boxingColor": "#000000",
+        "boxingOpacity": null
+      }
+    ],
+    "updatedAt": "2022-06-23T10:36:12.018Z"
+  }
+]
